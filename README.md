@@ -1,2 +1,52 @@
 # plaintext_tools_expo
 Showcases plaintext tools that I find useful
+
+
+```
+= plaintext tools =
+
+* csvkit
+* tree (unix)
+
+== Diagramming ==
+
+=== text input, text output ===
+
+* asciigraph (github)
+* graph-easy (github)
+* UML sequence diagram: https://github.com/weidagang/text-diagram (I wish this was ported to a CLI tool)
+** More suggestions at: https://textart.io/sequence
+
+=== text input, graphic output ===
+
+* qsde
+* plantuml
+* graphviz
+* yEd (it’s still stored as plaintext)
+```
+```
+=== Plaintext tools for 2D visuallization (toolbelt) ===
+#productivity 
+2021-08-11
+ 
+==== Text to text ====
+ 
+tree (unix)
+asciigraph (github)
+graph-easy (github)
+UML sequence diagram: https://github.com/weidagang/text-diagram (I wish this was ported to a CLI tool)
+ 
+2021-08-11
+ 
+==== Text to graphics ====
+qsde
+plantuml
+graphviz
+ 
+yEd (it's still stored as plaintext)
+ 
+More suggestions at:
+https://textart.io/sequence
+ 
+2021-08-11
+```
