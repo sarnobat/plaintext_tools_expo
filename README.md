@@ -2,6 +2,10 @@
 Showcases plaintext tools that I find useful
 
 
+### asciigraph
+
+### grapheasy
+
 ```
 = plaintext tools =
 
