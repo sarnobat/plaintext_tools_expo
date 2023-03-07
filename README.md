@@ -48,6 +48,7 @@ plantuml
 graphviz
  
 yEd (it's still stored as plaintext)
+mermaid
  
 More suggestions at:
 https://textart.io/sequence
