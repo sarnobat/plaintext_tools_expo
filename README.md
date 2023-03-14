@@ -4,6 +4,9 @@ Showcases plaintext tools that I find useful
 
 ### asciigraph
 
+### gaf
+https://github.com/Xx0w0wxX/gaf
+
 ### grapheasy
 
 ```
