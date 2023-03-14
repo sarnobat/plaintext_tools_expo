@@ -1,6 +1,20 @@
 # plaintext_tools_expo
 Showcases plaintext tools that I find useful
 
+| name | input | output | comment |
+|------|-------|--------|---------|
+| asciigraph | | | |
+| gaf | | | |
+| graph-easy | | | |
+| csvkit | | | |
+| tree | | | |
+| text-diagram | | | |
+| qsdem | | | |
+| plantuml | | | |
+| graphviz | | | |
+| yEd | | | |
+| mermaid |  | | |
+
 
 ### asciigraph
 
