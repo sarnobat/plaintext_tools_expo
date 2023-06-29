@@ -72,3 +72,9 @@ https://textart.io/sequence
  
 2021-08-11
 ```
+
+
+### Others
+
+vd (visidata)
+`plot` in terminal (GNU Plot, not to be confused with the R gplot package)
