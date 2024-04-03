@@ -9,7 +9,7 @@ Showcases plaintext tools that I find useful
 | csvkit | | | |
 | tree | | | |
 | text-diagram | | | |
-| qsdem | | | |
+| qsde | | | |
 | plantuml | | | |
 | graphviz | | | |
 | yEd | | | |
@@ -18,14 +18,6 @@ Showcases plaintext tools that I find useful
 
 ### asciigraph
 
-### ascii boxes
-
-https://github.com/ascii-boxes/boxes
-
-```
-brew install boxes
-boxes -l
-```
 
 ### gaf
 https://github.com/Xx0w0wxX/gaf
@@ -85,6 +77,15 @@ https://textart.io/sequence
 
 ### Others
 
+
 * vd (visidata)
 * `plot` in terminal (GNU Plot, not to be confused with the R gplot package)
 * `tsort`
+
+#### boxes
+* https://github.com/ascii-boxes/boxes
+
+```
+brew install boxes
+boxes -l
+```
