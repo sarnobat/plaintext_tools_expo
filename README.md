@@ -18,6 +18,15 @@ Showcases plaintext tools that I find useful
 
 ### asciigraph
 
+### ascii boxes
+
+https://github.com/ascii-boxes/boxes
+
+```
+brew install boxes
+boxes -l
+```
+
 ### gaf
 https://github.com/Xx0w0wxX/gaf
 
