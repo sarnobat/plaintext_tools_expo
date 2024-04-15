@@ -81,6 +81,8 @@ https://textart.io/sequence
 * vd (visidata)
 * `plot` in terminal (GNU Plot, not to be confused with the R gplot package)
 * `tsort`
+* xml toold
+   * `pandoc` to strip html
 
 #### boxes
 * https://github.com/ascii-boxes/boxes
