@@ -1,4 +1,4 @@
-Just the basic ones. There are more elaborate ones (that could be used for plaintext branding e.g. of scripts)
+Just the basic ones. There are more elaborate ones (that could be used for plaintext branding e.g. of scripts, github repos)
 More here: https://boxes.thomasjensen.com/v2.3.0/box-designs.html
 
 ```
