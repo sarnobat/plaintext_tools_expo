@@ -1,4 +1,5 @@
 Just the basic ones. There are more elaborate ones (that could be used for plaintext branding e.g. of scripts)
+More here: https://boxes.thomasjensen.com/v2.3.0/box-designs.html
 
 ```
 72 Available Styles in "/opt/homebrew/Cellar/boxes/2.3.0/share/boxes-config":
