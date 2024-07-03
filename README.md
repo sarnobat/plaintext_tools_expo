@@ -85,6 +85,8 @@ https://textart.io/sequence
    * `pandoc` to strip html
 
 #### boxes
+2024
+
 * https://github.com/ascii-boxes/boxes
 
 ```
@@ -92,3 +94,10 @@ brew install boxes
 boxes -l
 ```
 * https://github.com/sarnobat/plaintext_tools_expo/blob/main/boxes.md
+
+#### as-tree
+https://github.com/jez/as-tree
+
+#### astree
+
+https://github.com/yzhong52/ascii_tree
