@@ -101,3 +101,16 @@ https://github.com/jez/as-tree
 #### astree
 
 https://github.com/yzhong52/ascii_tree
+
+```
+             ┌──────┐
+             │ Root │
+             └──┬───┘
+           ┌────┴────┐
+           │ Child 1 │
+           └────┬────┘
+       ┌────────┴────────┐
+┌──────┴───────┐  ┌──────┴───────┐
+│ Grandchild 1 │  │ Grandchild 2 │
+└──────────────┘  └──────────────┘
+```
