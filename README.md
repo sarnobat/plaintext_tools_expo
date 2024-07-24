@@ -1,5 +1,5 @@
 # plaintext_tools_expo
-Showcases plaintext tools that I find useful
+Showcases plaintext visualization tools that I find useful
 
 | name | input | output | comment |
 |------|-------|--------|---------|
