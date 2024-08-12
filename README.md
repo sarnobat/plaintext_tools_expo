@@ -83,6 +83,10 @@ https://textart.io/sequence
 * `tsort`
 * xml tools
    * `pandoc` to strip html
+* conversion tools
+   * `yq`, `xq` and `jq`
+   * `m4`
+
 
 #### boxes
 2024
