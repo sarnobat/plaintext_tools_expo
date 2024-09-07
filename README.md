@@ -106,6 +106,8 @@ https://github.com/jez/as-tree
 
 https://github.com/yzhong52/ascii_tree
 
+
+Input: markdown headings
 ```
              ┌──────┐
              │ Root │
