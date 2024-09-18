@@ -80,7 +80,7 @@ https://textart.io/sequence
 
 * vd (visidata)
 * `plot` in terminal (GNU Plot, not to be confused with the R gplot package)
-* `tsort`
+* `tsort` - 2024-09-18: show sample input and output (check wikipedia)
 * xml tools
    * `pandoc` to strip html
 * conversion tools
