@@ -4,11 +4,11 @@ Showcases plaintext visualization tools that I find useful
 | name | input | output | comment |
 |------|-------|--------|---------|
 | asciigraph | plaintext | plaintext | |
-| gaf | plaintext | plaintext (UTF8) | |
+| gaf | plaintext | plaintext (UTF8) | budget|
 | graph-easy | plaintext | plaintext | |
 | csvkit | plaintext | plaintext| |
 | tree | (state) | plaintext | |
-| text-diagram | | plaintext | |
+| text-diagram |  plaintext | plaintext | uml |
 | qsde | | graphics | |
 | plantuml | | graphics| |
 | graphviz | | graphics | |
