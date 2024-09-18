@@ -3,17 +3,17 @@ Showcases plaintext visualization tools that I find useful
 
 | name | input | output | comment |
 |------|-------|--------|---------|
-| asciigraph | | | |
-| gaf | | | |
-| graph-easy | | | |
-| csvkit | | | |
-| tree | | | |
-| text-diagram | | | |
-| qsde | | | |
-| plantuml | | | |
-| graphviz | | | |
-| yEd | | | |
-| mermaid |  | | |
+| asciigraph | plaintext | plaintext | |
+| gaf | plaintext | plaintext (UTF8) | |
+| graph-easy | plaintext | plaintext | |
+| csvkit | plaintext | plaintext| |
+| tree | (state) | plaintext | |
+| text-diagram | | plaintext | |
+| qsde | | graphics | |
+| plantuml | | graphics| |
+| graphviz | | graphics | |
+| yEd | | graphics | |
+| mermaid |  | graphics | |
 
 
 ### asciigraph
