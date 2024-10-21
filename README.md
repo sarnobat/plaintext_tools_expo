@@ -132,3 +132,4 @@ https://github.com/pylover/adia
 
 It can create plaintext output (diagrams too)
 `troff_examples.sh`
+`cat ~/src.git/troff/plaintext.out.txt`
