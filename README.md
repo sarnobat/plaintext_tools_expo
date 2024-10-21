@@ -122,3 +122,13 @@ Input: markdown headings
 │ Grandchild 1 │  │ Grandchild 2 │
 └──────────────┘  └──────────────┘
 ```
+
+#### adia
+
+2024-10-21
+https://github.com/pylover/adia
+
+#### groff
+
+It can create plaintext output (diagrams too)
+`troff_examples.sh`
