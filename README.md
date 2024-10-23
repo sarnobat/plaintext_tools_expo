@@ -9,6 +9,7 @@ Showcases plaintext visualization tools that I find useful
 | csvkit | plaintext | plaintext| |
 | tree | (state) | plaintext | |
 | text-diagram |  plaintext | plaintext | uml |
+| adia | plaintext | plaintext | uml |
 | qsde | | graphics | |
 | plantuml | | graphics| |
 | graphviz | | graphics | |
@@ -126,6 +127,21 @@ Input: markdown headings
 
 #### adia
 
+```
+ DIAGRAM: Foo                             
+
+ +-----+             +-----+
+ | foo |             | bar |
+ +-----+             +-----+
+    |                   |
+    |~~~Hello World!~~~>|
+    |                   |
+    |<------------------|
+    |                   |
+ +-----+             +-----+
+ | foo |             | bar |
+ +-----+             +-----+
+```
 2024-10-21
 https://github.com/pylover/adia
 
