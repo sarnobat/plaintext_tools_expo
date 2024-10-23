@@ -14,6 +14,7 @@ Showcases plaintext visualization tools that I find useful
 | graphviz | | graphics | |
 | yEd | | graphics | |
 | mermaid |  | graphics | |
+| d2 | plaintext | graphics | |
 
 
 ### asciigraph
