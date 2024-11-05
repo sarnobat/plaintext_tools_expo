@@ -18,7 +18,8 @@ Showcases plaintext visualization tools that I find useful
 | d2 | plaintext | graphics | |
 
 See also:
-* `pandoc_plaintext_markup_formats_expo.pdf`
+* Diagramming: `cli_tool_input_output_plaintext_tools_expo.overleaf.pdf`
+* Markup: `pandoc_plaintext_markup_formats_expo.pdf`
 
 ### asciigraph
 
