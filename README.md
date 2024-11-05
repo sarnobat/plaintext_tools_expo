@@ -17,6 +17,8 @@ Showcases plaintext visualization tools that I find useful
 | mermaid |  | graphics | |
 | d2 | plaintext | graphics | |
 
+See also:
+* `pandoc_plaintext_markup_formats_expo.pdf`
 
 ### asciigraph
 
