@@ -21,6 +21,16 @@ See also:
 * Diagramming: `cli_tool_input_output_plaintext_tools_expo.overleaf.pdf`
 * Markup: `pandoc_plaintext_markup_formats_expo.pdf`
 
+### Not to be confused with
+lightweight markup languages
+* toml
+* org-mode
+* setext
+* Markup: `pandoc_plaintext_markup_formats_expo.pdf`
+Tools
+* pandoc
+
+
 ### asciigraph
 
 https://github.com/zyona3/gaf
