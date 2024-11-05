@@ -27,6 +27,8 @@ lightweight markup languages
 * org-mode
 * setext
 * Markup: `pandoc_plaintext_markup_formats_expo.pdf`
+* https://en.wikipedia.org/wiki/Lightweight_markup_language
+* 
 Tools
 * pandoc
 
