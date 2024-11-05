@@ -30,6 +30,8 @@ lightweight markup languages
 Tools
 * pandoc
 
+Note plaintext but useful sometimes
+* Freeform
 
 ### asciigraph
 
