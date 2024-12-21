@@ -165,7 +165,7 @@ Input: markdown headings
 ```
 
 #### adia
-
+for sequence diagrams
 ```
  DIAGRAM: Foo                             
 
