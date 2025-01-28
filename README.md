@@ -12,10 +12,10 @@ Showcases plaintext visualization tools that I find useful
 | adia | plaintext | plaintext | uml |
 | qsde | | graphics | |
 | plantuml | | graphics| |
-| graphviz dot | | graphics | |
-| graphviz dot | | plaintext | |
+| graphviz dot | | graphics | call graphs 2011 |
+| graphviz dot | | plaintext | Jenkins build pipeline |
 | yEd | | graphics | |
-| mermaid |  | graphics | |
+| mermaid |  | graphics | works on github web; gantt soccer players; sankey budget; nutrition pie chart |
 | d2 | plaintext | graphics | |
 
 See also:
