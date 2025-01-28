@@ -12,7 +12,8 @@ Showcases plaintext visualization tools that I find useful
 | adia | plaintext | plaintext | uml |
 | qsde | | graphics | |
 | plantuml | | graphics| |
-| graphviz | | graphics | |
+| graphviz dot | | graphics | |
+| graphviz dot | | plaintext | |
 | yEd | | graphics | |
 | mermaid |  | graphics | |
 | d2 | plaintext | graphics | |
