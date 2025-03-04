@@ -190,7 +190,8 @@ https://github.com/pylover/adia
 It can create plaintext output
 `troff_examples.sh`
 `cat ~/src.git/2024/troff/plaintext.out.txt`
- diagrams too:
+
+Diagrams too (but it prints loads of space afterwards):
 
 ```
 +------+     +------+
