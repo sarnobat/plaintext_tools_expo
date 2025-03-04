@@ -187,6 +187,14 @@ https://github.com/pylover/adia
 
 #### groff
 
-It can create plaintext output (diagrams too)
+It can create plaintext output
 `troff_examples.sh`
-`cat ~/src.git/troff/plaintext.out.txt`
+`cat ~/src.git/2024/troff/plaintext.out.txt`
+ diagrams too:
+
+```
++------+     +------+
+|      +-----|      |
+| box1 |     |box2  |
++------+     +------+
+```
