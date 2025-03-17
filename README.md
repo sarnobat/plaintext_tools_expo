@@ -17,6 +17,7 @@ Showcases plaintext visualization tools that I find useful
 | yEd | | graphics | |
 | mermaid |  | graphics | works on github web; gantt soccer players; sankey budget; nutrition pie chart |
 | d2 | plaintext | graphics | |
+| groff / pic  | plaintext | plaintext| |
 
 See also:
 * https://docs.google.com/spreadsheets/d/16yigQV4pDzzIxtNpnBOs3W4Rd4AUUNuUpKnxq7zcFE8/edit?gid=792143698#gid=792143698
