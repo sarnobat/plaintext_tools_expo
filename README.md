@@ -188,6 +188,7 @@ for sequence diagrams
 ```
 2024-10-21
 https://github.com/pylover/adia
+* better than online tool: https://textart.io/sequence#
 
 #### groff
 
@@ -233,3 +234,4 @@ $ cat test.mermaid | mermaid-ascii
           │   │          
           └───┘          
 ```
+2025-03-19
