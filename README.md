@@ -1,6 +1,9 @@
 # plaintext_tools_expo
 Showcases plaintext visualization tools that I find useful
 
+* Master copy: https://docs.google.com/spreadsheets/d/16yigQV4pDzzIxtNpnBOs3W4Rd4AUUNuUpKnxq7zcFE8/edit?gid=792143698#gid=792143698
+
+
 | name | input | output | comment |
 |------|-------|--------|---------|
 | asciigraph | plaintext | plaintext | |
@@ -20,7 +23,6 @@ Showcases plaintext visualization tools that I find useful
 | groff / pic  | plaintext | plaintext| |
 
 See also:
-* https://docs.google.com/spreadsheets/d/16yigQV4pDzzIxtNpnBOs3W4Rd4AUUNuUpKnxq7zcFE8/edit?gid=792143698#gid=792143698
 * Diagramming: `~/sarnobat.git/2024/tex/cli_tool_input_output_plaintext_tools_expo.overleaf.pdf`
 * Markup: `~/sarnobat.git/2024/tex/pandoc_plaintext_markup_formats_expo.pdf`
 
