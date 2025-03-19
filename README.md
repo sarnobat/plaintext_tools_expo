@@ -203,3 +203,33 @@ Diagrams too (but it prints loads of space afterwards):
 | box1 |     |box2  |
 +------+     +------+
 ```
+
+#### mermaid-ascii
+
+Top-down layout
+```
+$ cat test.mermaid
+graph TD
+A --> B
+A --> C
+B --> C
+B -->|example| D
+D --> C
+
+$ cat test.mermaid | mermaid-ascii
+┌───┐     ┌───┐     ┌───┐
+│   │     │   │     │   │
+│ A ├────►│ B ├────►│ D │
+│   │     │   │     │   │
+└─┬─┘     └─┬─┘     └─┬─┘
+  │         │         │  
+  │         │         │  
+  │         │         │  
+  │         │         │  
+  │         ▼         │  
+  │       ┌───┐       │  
+  │       │   │       │  
+  └──────►│ C │◄──────┘  
+          │   │          
+          └───┘          
+```
