@@ -25,6 +25,8 @@ Showcases plaintext visualization tools that I find useful
 See also:
 * Diagramming: `~/sarnobat.git/2024/tex/cli_tool_input_output_plaintext_tools_expo.overleaf.pdf`
 * Markup: `~/sarnobat.git/2024/tex/pandoc_plaintext_markup_formats_expo.pdf`
+Related
+* https://www.baeldung.com/linux/shell-ascii-diagrams
 
 ### Not to be confused with
 lightweight markup languages
