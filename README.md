@@ -44,7 +44,7 @@ Note plaintext but useful sometimes
 
 ### asciigraph
 
-https://github.com/zyona3/gaf
+https://github.com/guptarohit/asciigraph
 
 ```
   10.00 ┤        ╭╮
@@ -60,7 +60,7 @@ https://github.com/zyona3/gaf
 
 
 ### gaf
-https://github.com/Xx0w0wxX/gaf
+[https://github.com/Xx0w0wxX/gaf](https://github.com/zyona3/gaf)
 ```
     python :  █████████████████████▎
         go :  ██████
