@@ -1,6 +1,10 @@
 # plaintext_tools_expo
 Showcases plaintext visualization tools that I find useful
 
+> "The r23c method: enriching plaintext without interface captivity" ~~Claude
+
+
+
 * Master copy: https://docs.google.com/spreadsheets/d/16yigQV4pDzzIxtNpnBOs3W4Rd4AUUNuUpKnxq7zcFE8/edit?gid=779420233#gid=779420233
 
 
