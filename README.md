@@ -242,3 +242,12 @@ $ cat test.mermaid | mermaid-ascii
           └───┘          
 ```
 2025-03-19
+
+___
+I can't find anything useful here but I need to spend more time looking
+https://hlnet.notion.site/text-art-tools
+
+2026-07-17
+
+
+
